@@ -6,7 +6,7 @@
 
 ### 如何下载皮肤?
 
-[点我](./Skin/Gordon.png)开始下载
+[点我](./Skin/Gopher.png)开始下载
 
 ### 皮肤预览
 
