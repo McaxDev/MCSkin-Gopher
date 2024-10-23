@@ -1,6 +1,6 @@
 ### 关于
 
-一个娘化的 [Gordon](https://go.dev/blog/gopher) MC皮肤
+一个娘化的 [Gopher](https://go.dev/blog/gopher) MC皮肤
 
 皮肤参数: 苗条、64 x 64
 
