@@ -2,7 +2,7 @@
 
 一个娘化的(A feminine) [Gopher](https://go.dev/blog/gopher) MC皮肤 (MC skin)
 
-皮肤参数(pamameters of skin): 苗条(slim)、64 x 64
+皮肤参数(parameters of skin): 苗条(slim)、64 x 64
 
 ### 如何下载皮肤? (how to download?)
 
