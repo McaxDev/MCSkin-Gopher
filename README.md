@@ -20,10 +20,14 @@ parameters of skin: slim、64px
 
 [chick me](./Skin/Gopher.png) to download
 
+---
+
 ### 预览 / Preview
 
 ![前视图（front view）](./demo/demo_1.png)
 ![后视图(back view)](./demo/demo_2.png)
+
+---
 
 ### 版权声明
 
