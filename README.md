@@ -1,24 +1,37 @@
-### 关于(about)
+### 关于 / About
 
-一个娘化的(A feminine) [Gopher](https://go.dev/blog/gopher) MC皮肤 (MC skin)
+作者: [TATyKeFei](https://github.com/TATyKeFei)
 
-皮肤参数(parameters of skin): 苗条(slim)、64 x 64
+一个娘化的 [Gopher](https://go.dev/blog/gopher) MC皮肤
 
-### 如何下载皮肤? (how to download?)
+皮肤参数: 苗条(slim)、64px
 
-[点我(click me)](./Skin/Gopher.png)开始下载(to download)
+---
 
-### 皮肤预览（Preview）
+author: [TATyKeFei](https://github.com/TATyKeFei)
 
-![前视图（front view）](./demo/demo_1.png)  ![后视图(back view)](./demo/demo_2.png)
+A feminine [Gopher](https://go.dev/blog/gopher) MC skin
+
+parameters of skin: slim、64px
+
+### 下载链接 / Download Link
+
+[点我](./Skin/Gopher.png)下载
+
+[chick me](./Skin/Gopher.png) to download
+
+### 预览 / Preview
+
+![前视图（front view）](./demo/demo_1.png)
+![后视图(back view)](./demo/demo_2.png)
 
 ### 版权声明
 
 本Minecraft皮肤由作者公开，仅供个人使用，允许自由修改和分享，但需遵循以下条件：
 
 1. **个人使用**：你可以自由使用本皮肤进行个人娱乐和展示。
-2. **版权注明**：如果你对本皮肤进行修改或分享，请注明原作者的版权信息，附上链接至本仓库。
-3. **禁止商业用途**：本皮肤不得用于任何形式的商业用途，禁止销售或以任何方式牟利。
+2. **版权注明**：如果你对本皮肤进行修改或分享，但需注明原作者的版权信息，附上本仓库链接。
+3. **禁止商业用途**：本仓库内容不得用于任何形式的商业用途，禁止销售或以任何方式牟利。
 
 ### Copyright Notice
 
